@@ -1,0 +1,6 @@
+# List of required packages
+
+psutil
+schedule
+
+pip install -r requirements.txt
